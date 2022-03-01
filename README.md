@@ -1,14 +1,8 @@
 # Statistical-survey-of-university-salaries-2021
 <div align="center" ><img src="./images/anteprima.jpg" width="400" alt="anteprima"/></div>
 
-Lo scopo dell’indagine statistica presentata in questo progetto è quello di analizzare i dati 
-forniti dell’ **UNIVERSITY REPORT 2021** sullo stipendio lordo annuale dei più importanti 
-atenei italiani rispetto all’età.
+The purpose of the statistical survey presented in this project is to analyze the data provided by the **UNIVERSITY REPORT 2021** on the annual gross salary of the most important Italian universities according to age.
 
-L’obiettivo è ottenere informazioni dalle quali ricavare ulteriore conoscenza e poter fare 
-considerazioni sul fenomeno analizzato.
+The goal is to obtain information from which to gain further knowledge and to be able to make considerations on the phenomenon analyzed.
 
-Un’analisi approfondita sullo stipendio della popolazione italiana che ha conseguito la laurea
-presso diversi atenei può essere molto interessante per fornire dati affinché si possa ampliare 
-queste analisi e dare un contributo, basato su dati oggettivi, all’importantissimo e sempre 
-attuale dibattito sul ruolo dell’istruzione terziaria nel percorso professionale dei giovani
+An in-depth analysis on the salary of the Italian population who has graduated from various universities can be very interesting to provide data so that we can broaden these analyzes and make a contribution, based on objective data, to the very important and always current debate on the role of tertiary education in the career path of young people
